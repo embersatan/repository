@@ -1,0 +1,16 @@
+{
+  "presets": {
+    "nightly": {
+      "defenisve": {"name": "defensive cfg", "config": "sideways pitch up", "user": "admin"},
+      "jitter": {"name": "jitter cfg", "config": "delayed jitter", "user": "admin"}
+    },
+    "alpha": {
+      "meta": {"name": "meta cfg", "config": "metoviy preset", "user": "user1"},
+      "def": {"name": "def cfg", "config": "defdefe", "user": "helper"}
+    },
+    "live": {
+      "govno": {"name": "govno cfg", "config": "PARASHA", "user": "user2"},
+      "imba": {"name": "imba cfg", "config": "imba imba DADA", "user": "user3"}
+    }
+  }
+}

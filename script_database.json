@@ -1,0 +1,12 @@
+{
+  "users": {
+    "admin": {
+      "hwid": "dksoc932i42bxds$jsn",
+      "build": "source"
+    },
+    "moderator": {
+      "hwid": "2kkiiiii",
+      "build": "legacy"
+    },
+  }
+}
